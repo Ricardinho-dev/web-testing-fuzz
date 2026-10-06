@@ -1,0 +1,23 @@
+{
+  "name": "web-testing-fuzz",
+  "version": "1.0.0",
+  "description": "AUREUS - Financial remittance platform",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"No tests specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ricardinho-dev/web-testing-fuzz.git"
+  },
+  "keywords": [
+    "vercel",
+    "analytics",
+    "web"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
